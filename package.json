@@ -1,0 +1,20 @@
+{
+    "name": "DanielEastonParkSite",
+    "version": "1.0.0",
+    "description": "Daniel's Living in Easton Park Texas site.",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js",
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/frankpconnelly/DanielEastonParkSite.git"
+    },
+    "author": "Frank Connelly",
+    "license": "MIT",
+    "dependencies": {
+      "express": "^4.17.1"
+    }
+  }
+  
